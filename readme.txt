@@ -1,6 +1,6 @@
 === Russian Date by Axelnsk ===
 Contributors: Axelnsk
-Tags: русские даты, русские названия месяцев, русские месяцы, даты по русски, месяцы по русски, склонение дат, склонение месяцев
+Tags: русские даты, русские названия месяцев, русские месяцы, даты по русски, месяцы по русски, склонение дат, правильные деты, склонение месяцев, rus date, rus-date, russian date, russian-date
 Requires at least: 3.5
 Tested up to: 4.0
 Stable tag: 1.0
